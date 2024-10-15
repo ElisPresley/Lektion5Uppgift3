@@ -1,0 +1,69 @@
+.top{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    border: solid yellow 3px;
+    background-color: #35424a;
+}
+a{
+    color: white;
+}
+.övre{
+    background-image: url(./img/showcase.jpg);
+    border: solid red 2px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    font-size: 110%;
+    margin: auto;
+    padding-bottom: 100px;
+}
+.mitten{
+    background-color: #35424a;
+    color: white;
+    text-align: center;
+    border: solid orange 3px;
+}
+.undre{
+    display: flex;
+    flex: row;
+    border: solid yellow;
+}
+.html{
+    border: solid red 2px;
+    margin-right: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.css{
+    border: solid red 2px;
+    margin-right: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.design{
+    border: solid red 2px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logoBilder{
+    max-height: 150px;
+    max-width: 150px;
+    width: auto;
+}
+.sidfot{
+    border: solid yellow 2px;
+    text-align: center;
+    color: white;
+    background-color: #e8491d;
+}
